@@ -1,4 +1,4 @@
-# b3zkurt-medya
+# B3zkurt Medya
 B3ZKURT SOSYAL MEDYA ARAÇI
 
 
