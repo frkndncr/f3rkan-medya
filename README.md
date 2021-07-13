@@ -1,6 +1,9 @@
 # B3zkurt Medya
 B3ZKURT SOSYAL MEDYA ARAÇI
 
+---
+SELENİUM KURMAK İÇİN: https://pypi.org/project/selenium/
+---
 
 ---
 Discord'a Katılmayı Unutmayın!!
